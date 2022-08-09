@@ -1,0 +1,9 @@
+set tab-size = 4
+set wrap-lines = true
+
+set vertical-split = vertical
+set split-view-width = 70%
+
+set main-view-date = custom
+set main-view-date-format = "%Y-%m-%d %H:%M"
+set main-view-author = abbreviated
