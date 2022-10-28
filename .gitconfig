@@ -1,15 +1,14 @@
 [alias]
-    hist = log --color --graph --all --date=short --pretty=format:'%h %ad | %s%d [%an]'
+	hist = log --color --graph --all --date=short --pretty=format:'%h %ad | %s%d [%an]'
 [user]
-    name = Wentao Liu
-    email = wentao.liu.zero@outlook.com
+	name = Wentao Liu
+	email = wentao.liu.zero@outlook.com
 [core]
-    excludesfile = ~/.gitignore_global
-    editor = vim
-    filemode = false
+	excludesfile = ~/.gitignore_global
+	editor = vim
 [url "git@github.com:"]
-    insteadOf = https://github.com/
+	insteadOf = https://github.com/
 [credential]
-    helper = store
+	helper = store
 [init]
-    defaultBranch = main
+	defaultBranch = main
