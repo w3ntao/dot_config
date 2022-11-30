@@ -12,7 +12,7 @@ module.exports = {
         fontSize: 18,
 
         // font family with optional fallbacks
-        fontFamily: '"Fira Code Medium", "Inconsolata", "JetBrains Mono", "Monospace", "Cascadia Code"',
+        fontFamily: '"Input Mono", "Fira Code Medium", "Inconsolata", "JetBrains Mono", "DejaVu Sans Mono", "Cascadia Code"',
 
         // default font weight: 'normal' or 'bold'
         fontWeight: 'normal',
