@@ -6,8 +6,7 @@ def red(text):
 
 
 config_list = [
-    "~/.gitconfig", "~/.gitignore_global", "~/.hyper.js", "~/.tigrc",
-    "/usr/share/rime-data/default.yaml"
+    "~/.gitconfig", "~/.gitignore_global", "~/.hyper.js", "~/.tigrc", "~/.vimrc"
 ]
 
 if __name__ == "__main__":
