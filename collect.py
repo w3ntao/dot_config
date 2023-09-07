@@ -13,3 +13,4 @@ if __name__ == "__main__":
     for file in config_list:
         subprocess.run("cp {} .".format(file), shell=True, check=True)
         print("{} copied".format(red(file)))
+

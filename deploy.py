@@ -10,3 +10,4 @@ if __name__ == "__main__":
                        shell=True,
                        check=True)
         print("{} deployed".format(red(file_local)))
+
