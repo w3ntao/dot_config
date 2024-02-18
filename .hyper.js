@@ -155,6 +155,7 @@ module.exports = {
         "hyperterm-dibdabs",
         "hyper-reorderable-tabs",
         "hyper-font-ligatures",
+        "hyper-save-windowstate",
     ],
 
     // in development, you can create a directory under
