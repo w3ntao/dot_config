@@ -9,10 +9,10 @@ module.exports = {
         updateChannel: 'stable',
 
         // default font size in pixels for all tabs
-        fontSize: 14,
+        fontSize: 15,
 
         // font family with optional fallbacks
-        fontFamily: '"DejaVu Sans Mono", "JetBrains Mono", "Input Mono", "Fantasque Sans Mono", "Fira Code Medium", "Inconsolata", "Cascadia Code"',
+        fontFamily: '"IosevkaTermSlab NFM", "Fantasque Sans Mono", "DejaVu Sans Mono", "JetBrains Mono", "Input Mono", "Fantasque Sans Mono", "Fira Code Medium", "Inconsolata", "Cascadia Code"',
 
         // default font weight: 'normal' or 'bold'
         fontWeight: 'normal',
